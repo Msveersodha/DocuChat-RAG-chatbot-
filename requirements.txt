@@ -1,0 +1,11 @@
+python-dotenv 
+pinecone
+langchain
+langchain-openai
+langchain-pinecone
+openai
+pypdf
+requests
+numpy
+streamlit
+PyMuPDF==1.23.3
